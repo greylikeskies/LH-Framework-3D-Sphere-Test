@@ -1,0 +1,13 @@
+## License
+
+This repository is dual-licensed:
+
+- **Open-source GPL-3.0** – for research and non-commercial or open work.
+- **Commercial license** – for closed-source, proprietary, or embedded use.
+
+Commercial entities may obtain a proprietary license from:
+
+> Jeff Boylan  
+> [@JeffBoylan@proton.me]
+
+If you use this code under the GPL, you must comply with its terms.
